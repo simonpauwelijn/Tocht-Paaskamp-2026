@@ -138,3 +138,7 @@ section {
     color: #ff3b3b;
     font-weight: bold;
 }
+
+img {
+    height: 300px;
+}
